@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BBox-Label-Tool/.idea/BBox-Label-Tool.iml" filepath="$PROJECT_DIR$/../BBox-Label-Tool/.idea/BBox-Label-Tool.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Coding_Practice.iml" filepath="$PROJECT_DIR$/.idea/Coding_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Yolo_mark/.idea/Yolo_mark.iml" filepath="$PROJECT_DIR$/../Yolo_mark/.idea/Yolo_mark.iml" />
     </modules>
   </component>
 </project>
